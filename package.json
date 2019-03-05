@@ -1,0 +1,24 @@
+{
+  "name": "simple-web-scrapper",
+  "version": "1.0.0",
+  "description": "A simple project for me to play around with web scrapping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayzamazing/Simple-Web-Scrapper.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "web",
+    "scraping"
+  ],
+  "author": "Adrian J Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayzamazing/Simple-Web-Scrapper/issues"
+  },
+  "homepage": "https://github.com/jayzamazing/Simple-Web-Scrapper#readme"
+}
